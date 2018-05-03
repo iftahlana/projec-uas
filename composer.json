@@ -5,7 +5,7 @@
             "name": "iftahlana",
             "email": "iftahlananl@gmail.com"
         }
-    ],
+    ], 
     "require": {
         "phpunit/phpunit": "^6.5"
     }
