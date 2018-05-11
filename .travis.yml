@@ -6,8 +6,8 @@
   
   env: 
     global:
-      - 'FTP_USER=iftahlana'
-      - 'FTP_PASS=Iftah123'
+      - 'FTP_USER=iftahlananl'
+      - 'FTP_PASS=iftahtegal'
   
   script:
     
