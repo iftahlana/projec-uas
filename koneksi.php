@@ -1,8 +1,8 @@
 <?php
 class Koneksi{
     private $server = "localhost";
-    private $username = "root";
-    private $password = "";
+    private $username = "id4951099_toko";
+    private $password = "id4951099_def";
     private $db = "mahasiswa";
     private $hubungan;
 
